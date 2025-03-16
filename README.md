@@ -38,4 +38,8 @@ I am a student of Applied Computer Science at Warsaw University of Technology wh
     <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
     </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+    </a>
 </p>
+
