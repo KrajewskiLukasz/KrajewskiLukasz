@@ -6,8 +6,8 @@ I am a student of Applied Computer Science at Warsaw University of Technology wh
 </h3>
 
 💡 I am particularly interested in **data analysis, databases, and machine learning**.  
-🤩 I enjoy working on **automation projects** that improve efficiency and solve real-world problems.
-🚀 Currently, I am exploring new technologies and honing my skills in **Python, SQL, and cloud computing**.  
+🤩 I enjoy working on **automation projects** that improve efficiency and solve real-world problems.  
+🤖 Currently, I am exploring new technologies and honing my skills in **Python, SQL, and cloud computing**.  
 
 <h3 align="center">Languages and Tools:</h3>
 
