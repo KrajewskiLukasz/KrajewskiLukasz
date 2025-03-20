@@ -43,4 +43,7 @@ I am a student of Applied Computer Science at Warsaw University of Technology wh
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
     </a>
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrajewskiLukasz&show_icons=true&locale=en&layout=compact&theme=algolia&hide=jupyter%20notebook,TeX" alt="KrajewskiLukasz" height="180" width="400" />
+</p>
 
